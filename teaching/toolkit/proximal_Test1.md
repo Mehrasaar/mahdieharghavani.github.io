@@ -3,7 +3,7 @@ layout: persian
 classes: wide rtl-layout
 dir: rtl
 title: "الگوریتم‌های پروگزیمال"
-permalink: /teaching/toolkit/ProximalMapping/
+permalink: /teaching/toolkit/ProximalMapping11/
 author_profile: true
 sidebar:
   nav: "toolkit"
