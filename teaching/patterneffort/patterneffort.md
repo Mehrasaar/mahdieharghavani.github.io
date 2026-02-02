@@ -113,3 +113,14 @@ Generalization Error</strong>
 <strong> RAG project: Tourist Assistant</strong>
 </div>
 <a href="/teaching/studenteffort/patterneffort/TOURIST_ASSISTANT" style="text-decoration:underline; color:green;" target="_blank"><strong>آموزش پیاده سازی پروژه RAG برای راهنمایی گردشگران</strong></a>
+
+
+<!--14-->
+<div class="english-text">
+<strong> SGD</strong>
+</div>
+<a href="/teaching/studenteffort/patterneffort/SGD" style="text-decoration:underline; color:green;" target="_blank"><strong>SGD</strong></a>
+
+
+
+
