@@ -119,7 +119,7 @@ Generalization Error</strong>
 <div class="english-text">
 <strong> SGD</strong>
 </div>
-<a href="/teaching/studenteffort/patterneffort/SGD" style="text-decoration:underline; color:green;" target="_blank"><strong>SGD</strong></a>
+<a href="/teaching/patterneffort/SGD" style="text-decoration:underline; color:green;" target="_blank"><strong>SGD</strong></a>
 
 
 
