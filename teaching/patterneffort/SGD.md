@@ -4,8 +4,6 @@ title: "Stochastic Gradient Descent (SGD)"
 permalink: /teaching/patterneffort/SGD/
 author_profile: true
 classes: wide
-sidebar:
-  nav: "teaching"
 header:
   overlay_image: "/assets/images/background.jpg"
   overlay_filter: 0.3
