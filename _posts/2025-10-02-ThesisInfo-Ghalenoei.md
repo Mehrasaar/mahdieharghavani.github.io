@@ -1,5 +1,5 @@
 ---
-title: Single-class anomaly detection based on implicit convex hull and ensemble learning
+title: "Single-class anomaly detection based on implicit convex hull and ensemble learning"
 date: 2025-10-02
 categories: [Physics, Computational]
 tags: [anomaly detection, anomaly detection, ensemble learning]
