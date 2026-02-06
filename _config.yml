@@ -372,5 +372,6 @@ defaults:
       sidebar:
         nav: "main"
 
+future: true
 
 
