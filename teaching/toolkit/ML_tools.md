@@ -97,3 +97,9 @@ header:
 </div>
 <a href="/teaching/toolkit/ProximalMapping" style="text-decoration:underline; color:green;" target="_blank"><strong>   تست الگوریتم‌های پروگسیمال </strong></a>
 
+<!--14-->
+<div class="english-text">
+<strong>Entropy</strong>
+</div>
+<a href="/teaching/toolkit/Entropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی چیست</strong></a>
+
