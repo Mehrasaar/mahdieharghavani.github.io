@@ -3,7 +3,7 @@ layout: persian  # یا single با کلاس rtl-layout
 classes: wide rtl-layout
 dir: rtl
 title: "انتروپی چیست"
-permalink: /teaching/studenteffort/toolkit/Entropy/
+permalink: /teaching/toolkit/Entropy/
 author_profile: false
 sidebar:
   nav: "toolkit"
