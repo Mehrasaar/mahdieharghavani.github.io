@@ -19,7 +19,7 @@ header:
 # آنتروپی
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy1.jpg" alt="Entropy_1" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy1.jpg" alt="Entropy_1" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 افزایش بی‌نظمی در جهان – نمایش مفهومی قانون دوم ترمودینامیک
@@ -32,7 +32,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy2.jpg" alt="Entropy_2" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy2.jpg" alt="Entropy_2" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 کاهش موضعی آنتروپی با تشکیل یخ از آب
@@ -44,7 +44,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy3.jpg" alt="Entropy_3" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy3.jpg" alt="Entropy_3" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 پرسش درباره پیدایش ساختارهای پیچیده در جهانی با گرایش به بی‌نظمی
@@ -57,7 +57,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy4.jpg" alt="Entropy_4" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy4.jpg" alt="Entropy_4" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 توصیف میکروسکوپی ذرات و مفهوم آنتروپی
@@ -112,7 +112,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy5.jpg" alt="Entropy_5" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy5.jpg" alt="Entropy_5" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 مقایسه سیستم ساده و سیستم پیچیده
@@ -184,7 +184,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy6.jpg" alt="Entropy_6" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy6.jpg" alt="Entropy_6" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 مثال فنجان قهوه و شیر
@@ -195,7 +195,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy7.jpg" alt="Entropy_7" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy7.jpg" alt="Entropy_7" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 حالت اولیه با آنتروپی پایین و جدایش واضح
@@ -208,7 +208,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy8.jpg" alt="Entropy_8" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy8.jpg" alt="Entropy_8" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 آرایش ساده: شیر بالا، قهوه پایین
@@ -220,7 +220,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy9.jpg" alt="Entropy_9" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy9.jpg" alt="Entropy_9" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 شروع فرایند اختلاط و افزایش آنتروپی
@@ -232,7 +232,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy10.jpg" alt="Entropy_10" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy10.jpg" alt="Entropy_10" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 پیچیدگی الگوهای مارپیچی و درهم‌تنیده
@@ -244,7 +244,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy11.jpg" alt="Entropy_11" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy11.jpg" alt="Entropy_11" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 رسیدن به تعادل کامل و مخلوط یکنواخت
@@ -257,7 +257,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy12.jpg" alt="Entropy_12" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy12.jpg" alt="Entropy_12" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 نمودار تغییرات: رشد اولیه پیچیدگی و سپس کاهش آن
@@ -270,7 +270,7 @@ header:
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="/assets/Toolkitimages/Entropy/Entropy13.jpg" alt="Entropy_13" style="width: 50%; height: 50%; object-fit: contain;">
+    <img src="/assets/Toolkitimages/Entropy/Entopy13.jpg" alt="Entropy_13" style="width: 50%; height: 50%; object-fit: contain;">
 </div>
 <div class="caption" style="text-align: center; margin-top: 8px;">
 پیچیدگی کیهان: ستارگان، کهکشان‌ها و حیات
