@@ -103,3 +103,9 @@ header:
 </div>
 <a href="/teaching/toolkit/Entropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی و پیچیدگی چیست</strong></a>
 
+<!--15-->
+<div class="english-text">
+<strong>Cross Entropy</strong>
+</div>
+<a href="/teaching/toolkit/CrossEntropy" style="text-decoration:underline; color:green;" target="_blank"><strong> انتروپی متقاطع چیست</strong></a>
+
