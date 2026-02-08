@@ -213,12 +213,11 @@ $$
 f(w) = \frac{1}{\sigma^2_n} y^\top w^\top X - \frac{1}{2\sigma^2_n} w^\top X^\top X w - \frac{1}{2} w^\top \Sigma_p^{-1} w
 $$
 
-گرادیان $ ( 
-abla_w f(w)) $ به صورت زیر است:
+گرادیان  $( \nabla_w f(w))$   به صورت زیر است:
 
 $$
 
-abla_w f(w) = \frac{\partial}{\partial w} \left( \frac{1}{\sigma^2_n} y^\top w^\top X - \frac{1}{2\sigma^2_n} w^\top X^\top X w - \frac{1}{2} w^\top \Sigma_p^{-1} w \right)
+\nabla_w f(w) = \frac{\partial}{\partial w} \left( \frac{1}{\sigma^2_n} y^\top w^\top X - \frac{1}{2\sigma^2_n} w^\top X^\top X w - \frac{1}{2} w^\top \Sigma_p^{-1} w \right)
 $$
 
 تفکیک هر ترم:
