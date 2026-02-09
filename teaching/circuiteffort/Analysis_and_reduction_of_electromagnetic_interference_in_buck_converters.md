@@ -50,17 +50,17 @@ author_profile: true
 
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top:40px">
-	<img src="./assets/circuiteffort/electromagnetic_interference/Electromagnetic-wave-radio-wave.png" alt="Electromagnetic Wave" style="width: 40%; object-fit: contain;">
+	<img src="/assets/circuiteffort/electromagnetic_interference/Electromagnetic-wave-radio-wave.png" alt="Electromagnetic Wave" style="width: 40%; object-fit: contain;">
 </div>
 
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
 _تصویر 1: موج الکترومغناطیسی_
 </div>
 
-نخستین بار، **ماکسول** موج الکترومغناطیسی را پیش‌بی./assets/circuiteffort/electromagnetic_interference/نی کرد و سپس **هاینریش هرتز** آن را با آزمایش نشان داد.
+نخستین بار، **ماکسول** موج الکترومغناطیسی را پیش‌بی/assets/circuiteffort/electromagnetic_interference/نی کرد و سپس **هاینریش هرتز** آن را با آزمایش نشان داد.
   
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/circuiteffort/electromagnetic_interference/exam.png" alt="Hertz Experiment" style="width: 30%; object-fit: contain;">
+    <img src="/assets/circuiteffort/electromagnetic_interference/exam.png" alt="Hertz Experiment" style="width: 30%; object-fit: contain;">
 </div>
 
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
@@ -78,7 +78,7 @@ _تصویر 2: آزمایش هرتز برای تولید امواج الکترو
 در این مدار، بارها و جریان‌ها به‌صورت سینوسی در این فرکانس نوسان می‌کنند. منبع خارجی (مانند یک ژنراتور) باید اضافه شود تا اتلاف‌های گرمایی در مدار جبران شوند و انرژی لازم برای امواج الکترومغناطیسی منتشرشده فراهم گردد.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/circuiteffort/electromagnetic_interference/Oscillator_wave_creating.png" alt="LC Oscillator" style="width: 80%; object-fit: contain;">
+    <img src="/assets/circuiteffort/electromagnetic_interference/Oscillator_wave_creating.png" alt="LC Oscillator" style="width: 80%; object-fit: contain;">
 </div>
 
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
@@ -90,7 +90,7 @@ _تصویر 3:  LC نوسانگر و آنتن_
 شکل نشان می‌دهد که چگونه میدان الکتریکی **E** و میدان مغناطیسی **B** با گذشت یک طول موج کامل از آنتن تغییر می‌کنند و به نقطه‌ای دور (نقطه‌ی P) می‌رسند. در این شکل میدان‌ها از صفحه خارج می‌شوند (به سمت بیننده).
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/circuiteffort/electromagnetic_interference/E&B_in_wave.png" alt="E and B Fields" style="width: 30%; object-fit: contain;">
+    <img src="/assets/circuiteffort/electromagnetic_interference/E&B_in_wave.png" alt="E and B Fields" style="width: 30%; object-fit: contain;">
 </div>
 
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
@@ -133,7 +133,7 @@ $$
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <audio controls>
-        <source src="./assets/circuiteffort/electromagnetic_interference/Buzzing_Speakers.ogg" type="audio/ogg">
+        <source src="/assets/circuiteffort/electromagnetic_interference/Buzzing_Speakers.ogg" type="audio/ogg">
     </audio>
 </div>
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
@@ -162,7 +162,7 @@ _صدا 1: صدای نویز حاصل از تداخل الکترومغناطیس
   به صورت کلی، جریان، ولتاژ یا میدان الکترومفناطیسی ناخواسته را نویز میگویند. نویز، هرگونه سیگنال ناخواسته ای است که روی سیگنال اصلی سوار شده و آشکار سازی و تشخیص سیگنال اصلی را دشوار میسازد.
   
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./assets/circuiteffort/electromagnetic_interference/noise_on_signal.png" alt="Noise on Signal" style="width: 40%; object-fit: contain;">
+    <img src="/assets/circuiteffort/electromagnetic_interference/noise_on_signal.png" alt="Noise on Signal" style="width: 40%; object-fit: contain;">
 </div>
 <div class="caption"  style="text-align: center; margin-top: 8px; margin-bottom:15px">
 _تصویر 5: نمونه‌ای از نویز سوار بر سیگنال اصلی_
@@ -213,8 +213,8 @@ _تصویر 5: نمونه‌ای از نویز سوار بر سیگنال اصل
 6. عبور دادن کابل‌های فرمان از روی کابل‌های ولتاژ‌ بالا به شکلی که مسیر آن‌ها با هم **زاویه ۹۰ درجه** داشته باشد.
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-	  <img src="./assets/circuiteffort/electromagnetic_interference/FN2010N-60-24_60A_EMV_Filter.png" alt="EMV Filter" style="width: 30%; object-fit: contain;">
-	  <img src="./assets/circuiteffort/electromagnetic_interference/KNCone_TV_Station_DVBS2_PLUS_pci_card_front_0595_by_HDTVTotalDOTcom.jpg" alt="TV Card" style="width: 30%; object-fit: contain;">
+	  <img src="/assets/circuiteffort/electromagnetic_interference/FN2010N-60-24_60A_EMV_Filter.png" alt="EMV Filter" style="width: 30%; object-fit: contain;">
+	  <img src="/assets/circuiteffort/electromagnetic_interference/KNCone_TV_Station_DVBS2_PLUS_pci_card_front_0595_by_HDTVTotalDOTcom.jpg" alt="TV Card" style="width: 30%; object-fit: contain;">
 </div>
 <div class="caption"  style="text-align: center;">_تصویر 6:نمونه فیلترها و تجهیزات دارای EMC_</div>
 

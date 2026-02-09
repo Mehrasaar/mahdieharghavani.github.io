@@ -45,7 +45,7 @@ header:
 در این دوره، خطوط تولید و استانداردسازی هنوز در ابتدای راه بود؛ بنابراین ابزارها غالباً سفارشی یا تولید محدود برای کاربری‌های خاص بودند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig1_galvanometer.png" alt="Fig1: Galvanometer" style="width: 300px; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig1_galvanometer.png" alt="Fig1: Galvanometer" style="width: 300px; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig1: Galvanometer</div>
 
 ---
@@ -55,7 +55,7 @@ header:
 نخستین مولتی‌ متر قابل‌ حمل در سال **۱۹۲۳** توسط مهندس بریتانیایی **Donald Macadie** ساخته شد. او که از حمل چندین ابزار برای اندازه‌گیری جریان، ولتاژ و مقاومت خسته شده بود، دستگاهی طراحی کرد که همه‌ ی این عملکرد ها را در یک ابزار واحد ترکیب می‌ کرد. این اختراع، که ابتدا با نام **AVO Meter** (مخفف Ampere-Volt-Ohm) شناخته شد، سنگ‌ بنای مولتی‌ متر های امروزی شد.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig2_avometer.jpg" alt="Fig2: Avometer" style="width: 300px; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig2_avometer.jpg" alt="Fig2: Avometer" style="width: 300px; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig2: Avometer</div>
 
 ---
@@ -65,7 +65,7 @@ header:
 در نیمه قرن بیستم، مولتی‌ متر های آنالوگ به‌ عنوان ابزار اصلی مهندسان شناخته شدند. این دستگاه‌ ها از **عقربه‌ های مکانیکی حساس و مدار های مقاومتی تقسیم‌ کننده** استفاده می‌ کردند و علی‌ رغم دقت نسبتاً پایین‌ تر، درک تصویری خوبی از تغییرات سیگنال‌ ها ارائه می‌ دادند. هنوز هم در برخی کاربرد ها (مانند مشاهده‌ ی روند تغییرات سیگنال) از این نوع مولتی‌ متر ها استفاده می‌ شود.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig3_analog_multimeter.png" alt="Fig3: Analog Multimeter" style="width: 300px; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig3_analog_multimeter.png" alt="Fig3: Analog Multimeter" style="width: 300px; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig3: Analog Multimeter</div>
 
 ---
@@ -77,7 +77,7 @@ header:
 همچنین استانداردهای ایمنی (CAT I–CAT IV) و حفاظت داخلی مکانیکی/الکترونیکی (فیوزها، مدارهای تقسیم‌کننده مقاوم، گزینه‌های تست شارژ) در طراحی‌های صنعتی وارد شدند تا ریسک کاربرد در محیط‌های ولتاژ بالا کاهش یابد.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig4_digital_multimeter.jpg" alt="Fig4: Digital Multimeter" style="width: 300px; height: 100%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig4_digital_multimeter.jpg" alt="Fig4: Digital Multimeter" style="width: 300px; height: 100%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig4: Digital Multimeter</div>
 
 ---
@@ -128,7 +128,7 @@ $$
 یا معادل دیجیتال آن (نمونه‌برداری و محاسبهٔ میانگین مربعات نمونه‌ها و سپس جذر گرفتن) محاسبه می‌کند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig5_trueRMS.jpg" alt="Fig5: True RMS Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig5_trueRMS.jpg" alt="Fig5: True RMS Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig5: True RMS Multimeter</div>
 
 ---
@@ -146,7 +146,7 @@ $$
 نکته ای که Auto-ranging دارد این است که زمان پاسخ را کمی افزایش می‌دهد و در سناریوهایی که نیاز به خواندن سریع پیوسته است (مثل نمایش موج‌های سریع) ممکن است محدودیت ایجاد کند؛ بنابراین دستگاه‌هایی هم هستند که به‌صورت دستی یا نیمه‌خودکار عمل می‌کنند تا سرعت حفظ شود.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig6_autorRanging.jpg" alt="Fig6: Auto Ranging Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig6_autorRanging.jpg" alt="Fig6: Auto Ranging Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig6: Auto Ranging Multimeter</div>
 
 ---
@@ -162,7 +162,7 @@ $$
 - تمرکز بر جریان: اگرچه بسیاری از کلمپ‌مترهای مدرن قابلیت‌های استاندارد مولتی‌متر (ولتاژ، مقاومت) را نیز دارند، اما تخصص اصلی آن‌ها در اندازه‌گیری جریان‌های بالا در محیط‌های صنعتی، تابلوهای برق، و سیستم‌های HVAC است.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig7_clamp_multimeter.png" alt="Fig7: Clamp Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig7_clamp_multimeter.png" alt="Fig7: Clamp Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig7: Clamp Multimeter</div>
 
 ---
@@ -180,7 +180,7 @@ $$
 - صفحه نمایش بزرگ: نمایشگرهای بزرگ‌تری دارند که اغلب امکان نمایش چندین پارامتر به صورت همزمان (مثلاً ولتاژ و فرکانس همزمان) یا نمایش نمودارها را فراهم می‌کند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig8_benchtop_multimeter.png" alt="Fig8: Benchtop Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig8_benchtop_multimeter.png" alt="Fig8: Benchtop Multimeter" style="width: 50%; height: 50%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig8: Benchtop Multimeter</div>
 
 ---
@@ -198,7 +198,7 @@ $$
 - طراحی ساده و کوچک: اغلب با کمترین تعداد دکمه و سلکتور طراحی می‌شوند تا کاربری آن‌ها را برای افراد مبتدی و تکنسین‌های میدانی آسان کند.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig9_smart_multimeter.png" alt="Fig9: Smart Multimeter" style="width: 300px; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig9_smart_multimeter.png" alt="Fig9: Smart Multimeter" style="width: 300px; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig9: Smart Multimeter</div>
 
 ---
@@ -206,7 +206,7 @@ $$
 # بلوک‌ های سازنده مولتی‌ متر های دیجیتال (DMM)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="./assets/circuiteffort/multimeter-photos/fig10_multimeter_diagram.png" alt="Fig10: DMM Blockdiagram" style="width: 100%; height: 50%; object-fit: contain;"></div>
+    <img src="/assets/circuiteffort/multimeter-photos/fig10_multimeter_diagram.png" alt="Fig10: DMM Blockdiagram" style="width: 100%; height: 50%; object-fit: contain;"></div>
 <div class="caption" style="text-align: center; margin-top: 8px; direction: rtl;">Fig10: DMM Blockdiagram</div>
 
 ##### توضیح مختصر اجزا
