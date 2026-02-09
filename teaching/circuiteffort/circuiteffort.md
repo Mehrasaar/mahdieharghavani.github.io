@@ -116,6 +116,6 @@ header:
 
 <!--15-->
 <div class="english-text">
-<strong>"رسم شماتیک مدار</strong>
+<strong>"رسم شماتیک مدار الکتریکی</strong>
 </div>
 <a href="/teaching/circuiteffort/Circuit_Schematic_Drawing_Project" style="text-decoration:underline; color:green;" target="_blank"><strong> رسم شماتیک مدار</strong></a>
