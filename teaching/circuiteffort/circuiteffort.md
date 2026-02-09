@@ -112,3 +112,10 @@ header:
 <strong>زمین کردن </strong>
 </div>
 <a href="/teaching/circuiteffort/earthing" style="text-decoration:underline; color:green;" target="_blank"><strong> زمین کردن</strong></a>
+
+
+<!--15-->
+<div class="english-text">
+<strong>"رسم شماتیک مدار</strong>
+</div>
+<a href="/teaching/circuiteffort/Circuit_Schematic_Drawing_Project" style="text-decoration:underline; color:green;" target="_blank"><strong> رسم شماتیک مدار</strong></a>
