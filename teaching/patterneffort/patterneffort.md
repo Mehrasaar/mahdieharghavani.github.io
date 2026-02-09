@@ -113,3 +113,19 @@ Generalization Error</strong>
 <strong> RAG project: Tourist Assistant</strong>
 </div>
 <a href="/teaching/studenteffort/patterneffort/TOURIST_ASSISTANT" style="text-decoration:underline; color:green;" target="_blank"><strong>آموزش پیاده سازی پروژه RAG برای راهنمایی گردشگران</strong></a>
+
+
+<!--14-->
+<div class="english-text">
+<strong> SGD </strong>
+</div>
+<a href="/teaching/patterneffort/SGD" style="text-decoration:underline; color:green;" target="_blank"><strong>Stochastic Gradient Descent (SGD)</strong></a>
+
+
+<!--14-->
+<div class="english-text">
+<strong> LMS-RBF</strong>
+</div>
+<a href="/teaching/patterneffort/LMS_RBF" style="text-decoration:underline; color:green;" target="_blank"><strong>LMS RBF</strong></a>
+
+
