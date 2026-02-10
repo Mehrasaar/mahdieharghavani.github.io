@@ -135,3 +135,9 @@ header:
 <a href="/teaching/circuiteffort/multimeter-operating-principle-and-uses" style="text-decoration:underline; color:green;" target="_blank"><strong> مولتی متر (نحوه عملکرد و کاربرد ها)</strong></a>
 
 
+<!--17-->
+<div class="english-text">
+<strong>مبدل AC  به  DC</strong>
+</div>
+<a href="/teaching/circuiteffort/ACTODCFARSI" style="text-decoration:underline; color:green;" target="_blank"><strong>مبدل AC  به  DC</strong></a>
+
