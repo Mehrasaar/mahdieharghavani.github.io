@@ -3,7 +3,7 @@ layout: persian
 classes: wide rtl-layout
 dir: rtl
 title: "بینایی–زبان–کنش"
-permalink: /teaching/studenteffort/patterneffort/vla/
+permalink: /teaching/patterneffort/vla/
 author_profile: true
 
 header:
