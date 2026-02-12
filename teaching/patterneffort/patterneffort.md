@@ -122,10 +122,15 @@ Generalization Error</strong>
 <a href="/teaching/patterneffort/SGD" style="text-decoration:underline; color:green;" target="_blank"><strong>Stochastic Gradient Descent (SGD)</strong></a>
 
 
-<!--14-->
+<!--15-->
 <div class="english-text">
 <strong> LMS-RBF</strong>
 </div>
 <a href="/teaching/patterneffort/LMS_RBF" style="text-decoration:underline; color:green;" target="_blank"><strong>LMS RBF</strong></a>
 
+<!--16-->
+<div class="english-text">
+<strong>Vision–Language–Action (VLA)</strong>
+</div>
+<a href="/teaching/patterneffort/vla" style="text-decoration:underline; color:green;" target="_blank"><strong> بینایی–زبان–کنش (VLA)</strong></a>
 
