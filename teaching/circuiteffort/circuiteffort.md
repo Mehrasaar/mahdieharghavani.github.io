@@ -153,3 +153,10 @@ header:
 <strong>تحلیل AC مدارهای الکترونیکی با استفاده از NgSpice و بررسی عملی PySpice</strong>
 </div>
 <a href="/teaching/circuiteffort/Simulation-and-Circuit-Analysis" style="text-decoration:underline; color:green;" target="_blank"><strong>تحلیل AC مدارهای الکترونیکی با استفاده از NgSpice و بررسی عملی PySpice</strong></a>
+
+
+<!--20-->
+<div class="english-text">
+<strong>Tilt Sensor</strong>
+</div>
+<a href="/teaching/circuiteffort/Tilt_sensor" style="text-decoration:underline; color:green;" target="_blank"><strong>Tilt Sensor</strong></a>
