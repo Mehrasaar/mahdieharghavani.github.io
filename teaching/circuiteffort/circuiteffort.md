@@ -160,3 +160,10 @@ header:
 <strong>Tilt Sensor</strong>
 </div>
 <a href="/teaching/circuiteffort/Tilt_sensor" style="text-decoration:underline; color:green;" target="_blank"><strong>Tilt Sensor</strong></a>
+
+
+<!--20-->
+<div class="english-text">
+<strong>PID controller</strong>
+</div>
+<a href="/teaching/circuiteffort/pid_rocket" style="text-decoration:underline; color:green;" target="_blank"><strong>PID controller</strong></a>
