@@ -141,9 +141,29 @@ header:
 </div>
 <a href="/teaching/circuiteffort/ACTODCFARSI" style="text-decoration:underline; color:green;" target="_blank"><strong>مبدل AC  به  DC</strong></a>
 
-<!--17-->
+<!--18-->
 <div class="english-text">
-<strong>سنسورها</strong>
+<strong> طراحی خودکار فیلتر RC پایین‌گذر با الهام از WiseEDA</strong>
 </div>
-<a href="/teaching/circuiteffort/sensors" style="text-decoration:underline; color:green;" target="_blank"><strong>سنسورها</strong></a>
+<a href="/teaching/circuiteffort/wiseeda-like-automated-design-of-rc-low-pass-filters" style="text-decoration:underline; color:green;" target="_blank"><strong> طراحی خودکار فیلتر RC پایین‌گذر با الهام از WiseEDA</strong></a>
 
+
+<!--19-->
+<div class="english-text">
+<strong>تحلیل AC مدارهای الکترونیکی با استفاده از NgSpice و بررسی عملی PySpice</strong>
+</div>
+<a href="/teaching/circuiteffort/Simulation-and-Circuit-Analysis" style="text-decoration:underline; color:green;" target="_blank"><strong>تحلیل AC مدارهای الکترونیکی با استفاده از NgSpice و بررسی عملی PySpice</strong></a>
+
+
+<!--20-->
+<div class="english-text">
+<strong>Tilt Sensor</strong>
+</div>
+<a href="/teaching/circuiteffort/Tilt_sensor" style="text-decoration:underline; color:green;" target="_blank"><strong>Tilt Sensor</strong></a>
+
+
+<!--20-->
+<div class="english-text">
+<strong>PID controller</strong>
+</div>
+<a href="/teaching/circuiteffort/pid_rocket" style="text-decoration:underline; color:green;" target="_blank"><strong>PID controller</strong></a>
