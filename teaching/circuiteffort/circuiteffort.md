@@ -188,4 +188,10 @@ header:
 </div>
 <a href="/teaching/circuiteffort/Analysis_and_reduction_of_electromagnetic_interference_in_buck_converters_2" style="text-decoration:underline; color:green;" target="_blank"><strong>تحلیل و کاهش تداخل الکترومغناطیسی در مبدل‌های سوئیچینگ</strong></a>
 
+<!--24-->
+<div class="english-text">
+<strong>Internet of Things</strong>
+</div>
+<a href="/teaching/circuiteffort/iot-system" style="text-decoration:underline; color:green;" target="_blank"><strong>اینترنت اشیا</strong></a>
+
 
