@@ -174,3 +174,11 @@ header:
 <strong>circuit elements guide</strong>
 </div>
 <a href="/teaching/circuiteffort/circuit-elements-guide" style="text-decoration:underline; color:green;" target="_blank"><strong>کتابچه المان‌های مدار برای دانش‌آموزان</strong></a>
+
+<!--22-->
+<div class="english-text">
+<strong>LLM-Aware PID</strong>
+</div>
+<a href="/teaching/circuiteffort/llm_pid" style="text-decoration:underline; color:green;" target="_blank"><strong>کنترل به کمک مدل زبانی بزرگ</strong></a>
+
+
