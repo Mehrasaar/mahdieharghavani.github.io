@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-# کتابچه المان های مدار
+# کتابچه المان های مدار و الکترونیک
 
 
 # فهرست مطالب
