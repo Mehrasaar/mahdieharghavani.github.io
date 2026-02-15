@@ -213,3 +213,8 @@ header:
 </div>
 <a href="/teaching/circuiteffort/AC-Analysis-of-Electronic-Circuits-Using-NgSpice" style="text-decoration:underline; color:green;" target="_blank"><strong>تحلیل AC مدارهای الکترونیکی با استفاده از NgSpice و بررسی عملی PySpice</strong></a>
 
+<!--28-->
+<div class="english-text">
+<strong>Bias Point Analysis</strong>
+</div>
+<a href="/teaching/circuiteffort/BiasPoint" style="text-decoration:underline; color:green;" target="_blank"><strong>Bias Point Analysis</strong></a>
