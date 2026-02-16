@@ -218,3 +218,10 @@ header:
 <strong>Bias Point Analysis</strong>
 </div>
 <a href="/teaching/circuiteffort/BiasPoint" style="text-decoration:underline; color:green;" target="_blank"><strong>Bias Point Analysis</strong></a>
+
+
+<!--29-->
+<div class="english-text">
+<strong>Ohmmeter</strong>
+</div>
+<a href="/teaching/circuiteffort/BiasPoint" style="text-decoration:underline; color:green;" target="_blank"><strong>اهم‌سنج: از تئوری کلاسیک تا دقت دیجیتال</strong></a>
