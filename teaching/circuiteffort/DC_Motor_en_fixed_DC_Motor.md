@@ -8,7 +8,6 @@ author_profile: true
 ---
 
 
-# DC Motor
 
 ## Table of Contents
 <ul style="list-style-position: inside;">
